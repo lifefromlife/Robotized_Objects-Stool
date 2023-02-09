@@ -11,10 +11,6 @@ class stool:
     user_info="none"
     #시나리오 
     shelf5_open=False
-    shelf6_open=False
-    shelf7_open=False
-    shelf8_open=False
-    shelf9_open=False
     #각 서랍 
     turtlebot3_move=False
     scenario1=False
