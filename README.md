@@ -3,11 +3,12 @@ Collaborative Human-Robot Interaction Design for Robotic Library
 
 
 
-### 의자 경로
+### 의자 파일 경로
 ```
 /home/kist/catkin_ws/src/icsr/scripts 
 ```
-경로에 설정하였습니다.
+
+
 
 ```
 cd ~/catkin_ws/src/icsr/scripts
