@@ -58,7 +58,7 @@ class stool:
             
     def callback2(self, data):    #self 값은 다른 def에서도 해당 변수가 이어짐을 의미
         
-        if data.data == "shelf5":
+        if data.data == "book5":
             if stool.scenario2==True:
                 stool.cnt_open=stool.cnt_open+1
             #shelf5라고 한다면 stool.scenario2가 false에서 true이 되고 
@@ -73,7 +73,7 @@ class stool:
     
     def callback3(self, data):
 
-        if data.data == "shelf5_close":
+        if data.data == "reset5":
             if stool.scenario2==True:
                 stool.cnt_close=stool.cnt_close+1
             stool.shelf5_open=False
