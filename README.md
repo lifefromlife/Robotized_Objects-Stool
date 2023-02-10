@@ -93,3 +93,5 @@ test1 같은 경우 data.data=="데이터값"의 형태로 들어가는데
 
 
 <img width="80%" src="https://user-images.githubusercontent.com/105138423/217990931-ac976efa-18f9-4a34-9182-b778e7895810.PNG"/>
+
+onshape에서 파일 열어서 수정하시면 됩니다. 
