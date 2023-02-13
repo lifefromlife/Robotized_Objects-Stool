@@ -25,6 +25,7 @@ sudo nano jjmaster.py
 sudo gedit jjmaster.py
 ```
 
+
 jjmaster.py 파일 외에 github에서  받으시는 파일이면 stool.py로 실행해주세요.
 
 ### 의자 구동 방식
