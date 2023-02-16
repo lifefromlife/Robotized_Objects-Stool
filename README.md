@@ -93,9 +93,11 @@ stool.py 같은 경우 주석용으로 달아놓아 일부 코드는 생략했�
 
 터틀봇에 의자를 올린 상태로 navigation 패키지를 그대로 실행하려고 할 경우 
 라이다가 의자를 장애물로 인식하여 움직이려고 하지 않을 것입니다. 
+그러니 의자의 가장자리까지 장애물로 인식하지 않게끔 boundary를 정해야 합니다. 
 
-config 파일에 scan_filter 파일을 복사한 후 
-navigation 파일 노드를 github에 올려둔 코드처럼 추가해줍니다. 
+1. config 파일에 scan_filter 파일을 복사합니다.
+
+2. navigation 파일 노드를 github에 올려둔 코드처럼 추가해줍니다. 
 
 
 gmapping.launch이든 navigation.launch이든 적용 가능합니다.
